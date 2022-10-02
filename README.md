@@ -17,7 +17,7 @@
     <li><a href="about">About</a></li>
     <li><a href="services">Services</a></li>
     <li><a href="contacts">Contacts</a></li>
-    </ul>
+    </ul> 
     </nav>
      <h1>Welcome to my <span> First Site</span></h1>
 
